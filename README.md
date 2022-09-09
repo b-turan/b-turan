@@ -1,6 +1,6 @@
 ### Hi there, my name is B. Turan 👋
 
-- 🔭 I’m currently working on Transformers for Neural Machine Translation
+- 🔭 I’m currently working on XAI
 - 🌱 I’m currently learning C++
 - 💬 Ask me about anything you think I might be helpful for 
 ## Profile Stats
