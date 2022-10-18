@@ -1,4 +1,4 @@
-### Hi there, my name is B. Turan 👋
+### Hi there, my name is Berkant Turan 👋
 
 - 🔭 I’m currently working on XAI
 - 🌱 I’m currently learning C++
