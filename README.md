@@ -1,5 +1,5 @@
 ### Hi there, my name is Berkant Turan 👋
-
+- 🎓 I'm a PhD student in Machine Learning and Optimization
 - 🔭 I’m currently working on Saliency Methods in Explainable Artificial Intelligence
 - 🌱 I’m currently learning C++ and Clean Code
 - 💬 Ask me about anything you think I might be helpful for 
