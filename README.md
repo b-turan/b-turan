@@ -1,5 +1,5 @@
 ### Hi there, my name is Berkant Turan 👋
-- :eyes: [https://b-turan.github.io/](https://b-turan.github.io/)
+- [https://b-turan.github.io/](https://b-turan.github.io/)
 - 🎓 I'm a PhD student in Machine Learning and Optimization
 - 🔭 Working on Saliency Methods in Explainable Artificial Intelligence
 ## Profile Stats
